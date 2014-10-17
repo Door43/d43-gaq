@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gaq:home|Door43 (gaq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gaq|d43-gaq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gaq/archive/master.zip|d43-gaq.zip]]
+
+**Recent Changes**
+{{changes>ns = gaq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gaq|Ethnologue data]]
+
